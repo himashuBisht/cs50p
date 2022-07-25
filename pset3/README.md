@@ -1,7 +1,7 @@
 # https://cs50.harvard.edu/python/2022/psets/3/
 
-Solustion of the problems below:
-Fuel Gauge
-Felipe’s Taqueria
-Grocery List
-Outdated
+## Solution of the problems below:
+</br> <a href="https://cs50.harvard.edu/python/2022/psets/3/fuel/">Fuel Gauge</a> 
+</br> <a href="https://cs50.harvard.edu/python/2022/psets/3/taqueria/">Felipe’s Taqueria</a> 
+</br> <a href="https://cs50.harvard.edu/python/2022/psets/3/grocery/">Grocery List</a> 
+</br> <a href="https://cs50.harvard.edu/python/2022/psets/3/outdated/">Outdated</a> 
