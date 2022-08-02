@@ -39,7 +39,7 @@
 >### pset4
 #### <li><a href="https://github.com/himashuBisht/cs50p/blob/main/pset4/adieu.py">adieu</a>
 #### <li><a href="https://github.com/himashuBisht/cs50p/blob/main/pset4/bitcoin.py">bitcoin</a>
-#### <li><a href="ttps://github.com/himashuBisht/cs50p/blob/main/pset4/figlet.py">figlet</a>
+#### <li><a href="https://github.com/himashuBisht/cs50p/blob/main/pset4/figlet.py">figlet</a>
 #### <li><a href="https://github.com/himashuBisht/cs50p/blob/main/pset4/game.py">game</a>
 #### <li><a href="https://github.com/himashuBisht/cs50p/blob/main/pset4/professor.py">professor</a>
 
@@ -55,7 +55,7 @@
     * <a href="https://github.com/himashuBisht/cs50p/blob/main/pset5/test_plates.py">test_plates</a>
 * twttr
     * <a href="https://github.com/himashuBisht/cs50p/blob/main/pset5/twttr.py">twttr</a>
-    * <a href="https://github.com/himashuBisht/cs50p/blob/main/pset5/test_twttr.py">test_plates</a>
+    * <a href="https://github.com/himashuBisht/cs50p/blob/main/pset5/test_twttr.py">test_twttr</a>
 
 
 
